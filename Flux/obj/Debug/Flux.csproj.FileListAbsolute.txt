@@ -1,0 +1,2 @@
+E:\Flux\Flux\obj\Debug\Flux.csproj.AssemblyReference.cache
+E:\Flux\Flux\obj\Debug\Flux.csproj.CoreCompileInputs.cache

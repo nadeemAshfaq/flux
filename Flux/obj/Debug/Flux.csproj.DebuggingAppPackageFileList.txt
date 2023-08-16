@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\FluxManifest.xml
+E:\Flux\Flux\bin\Debug\Flux.debugapp

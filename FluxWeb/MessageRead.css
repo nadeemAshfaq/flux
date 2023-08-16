@@ -1,0 +1,21 @@
+﻿/*Page-specific styling */
+
+.padding {
+    padding: 15px;
+}
+#mainfrm {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Style for the form elements */
+form {
+    text-align: center;
+}
+
+label, input, button {
+    margin: 5px;
+    border:solid
+}
